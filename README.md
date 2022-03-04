@@ -1,4 +1,4 @@
-### Repositório destinado a estudos da biblioteca Pytest voltado para Machine Learning
+### Repositório destinado a estudos da biblioteca Pytest com foco em Machine Learning
 
 
 Instalando a biblioteca:
